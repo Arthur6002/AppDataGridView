@@ -8,3 +8,14 @@ C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.Ge
 C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.exe
 C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.pdb
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\bin\Debug\AppDataGrid.exe.config
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\bin\Debug\AppDataGrid.exe
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\bin\Debug\AppDataGrid.pdb
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.AssemblyReference.cache
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.Form1.resources
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.Properties.Resources.resources
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.GenerateResource.cache
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.exe
+C:\Users\Arthu\AppDataGridView\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.pdb
