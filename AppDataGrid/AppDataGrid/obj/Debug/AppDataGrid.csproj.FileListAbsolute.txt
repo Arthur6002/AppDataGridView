@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\bin\Debug\AppDataGrid.exe.config
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\bin\Debug\AppDataGrid.exe
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\bin\Debug\AppDataGrid.pdb
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.Form1.resources
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.Properties.Resources.resources
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.exe
+C:\Users\Usuario\Desktop\AppDataGrid\AppDataGrid\obj\Debug\AppDataGrid.pdb
